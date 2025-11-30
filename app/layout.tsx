@@ -14,8 +14,13 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Quishing Detection",
-  description: "Detect malicious QR Codes & phishing links instantly",
+  icons: {
+    icon: "/favicon-new.ico",
+    shortcut: "/favicon-32x32.png",
+    apple: "/apple-touch-icon.png",
+    },
 };
+
 
 export default function RootLayout({
   children,

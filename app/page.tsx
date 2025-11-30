@@ -707,7 +707,7 @@ export default function HomePage() {
         </p>
         <p>Built for security demos & quishing awareness.</p>
         <p className="italic text-slate-500">
-          By the local, for the local 🧠
+          Made With Security In 🧠
         </p>
       </footer>
     </div>
